@@ -1,0 +1,22 @@
+body{
+    background-color: grey;
+    color: wheat;
+}
+h1{
+    font-family: Arial ;
+    font-size: 22px;
+}
+h2{
+    background-color: black;
+    color: teal;
+    text-align: center;
+}
+.höger{
+    text-align: right;
+}
+.ram{
+    border: 1px solid teal;
+}
+.länk{
+    text-decoration: none;
+}
